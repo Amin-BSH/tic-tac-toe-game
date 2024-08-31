@@ -1,3 +1,5 @@
+<img src="./images/Tic_Tac_Toe.png">
+
 # Tic Tac Toe Game
 ## A simple command-line implementation of the classic Tic Tac Toe game in Python.
 
